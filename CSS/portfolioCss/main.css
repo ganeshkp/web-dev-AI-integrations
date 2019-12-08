@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(247, 242, 244);
+	font-family: helvetica;
+}
+
+table, th, td{
+	border: 2px solid rgb(237, 100, 219);
+}
+
+a{
+	border: 1px solid rgb(237, 100, 219);
+	background-color: #dbe0b8;
+}
+
+h1{
+	text-align: center;
+	color: red;
+}
+
+h2{
+	color: gray;
+}
+
+img{
+	width:100px;
+}
+
+form{
+	background-color: green;
+}

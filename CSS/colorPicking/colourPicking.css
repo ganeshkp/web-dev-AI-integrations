@@ -1,0 +1,21 @@
+body{
+	background-color: green;
+}
+
+h1{
+	text-align: center;
+	color: #FFEBCD;
+	text-transform: uppercase;
+	font-style: serif;
+}
+
+p{
+  background-color: white;
+  font-family: fantasy;
+  font-size: 30px;
+  text-transform: capitalize;
+  text-indent: 80px;
+
+ 	 
+}
+
